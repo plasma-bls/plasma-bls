@@ -1,6 +1,6 @@
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=4000&pause=200&color=880808&center=true&random=false&width=435&lines=This+is+Pl4sma;Learning+Csharp;Learning+Final+Python;maldev;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=4000&pause=200&color=880808&center=true&random=false&width=435&lines=This+is+Pl4sma;Learning+Csharp;Learning+Full+Python;maldev;)](https://git.io/typing-svg)
 
 </div>
 

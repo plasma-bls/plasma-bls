@@ -7,11 +7,11 @@
 ```
 
       /\          D  ▐  Arch 
-     /  \         K  ▐  6.9.4-zen1-1-zen 
-    /\   \        P  ▐  1757 (pacman), 9 (flatpak) 
-   /      \       S  ▐  zsh 5.9 
+     /  \         K  ▐  6.12.1-zen1-1-zen
+    /\   \        P  ▐  1225 (pacman), 17 (flatpak) 
+   /      \       S  ▐  bash 5.2
   /   ,,   \      T  ▐  kitty 
- /   |  |  -\     W  ▐  sway 
+ /   |  |  -\     W  ▐  KWin (X11) 
 /_-''    ''-_\    M  ▐  1920x1080 
 ```
 ```

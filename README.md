@@ -2,7 +2,6 @@
 <p align="center">
 </p>
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=plasma-bls.plasma-bls" alt="Profile views">
-<a href="https://github.com/plasma-bls"><img src="https://img.shields.io/github/followers/plasma-bls?label=Follow&amp;style=social" alt="Github"></a></p>
 <div size="20px"> Hello! I'm plasma, It's nice to see you here in my profile, take a look at my repos too!
 </div>
 
@@ -16,7 +15,7 @@
 <p>    💬 Ask me about MSF & C2s</p>
 </li>
 <li>
-<p>    ⚡ Fun fact: Me gustan los girasoles.</p>
+<p>    ⚡ Fun fact: I'm white.</p>
 </li>
 </ul>
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
@@ -38,7 +37,7 @@
 <br>
 <br>
   <br>
-<p><a href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=Aditya664&amp;theme=tokyonight" alt="Aditya's GitHub Activity Graph"></a></p>
+<p><a href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=plasma-bls&amp;theme=tokyonight" alt="Plasma's GitHub Activity Graph"></a></p>
 
 
 
@@ -52,7 +51,7 @@
 
 
 
-<table><thead><tr><th><img src="https://github-readme-stats.vercel.app/api?username=Aditya664&amp;show_icons=true&amp;theme=tokyonight" alt="Aditya's github stats"></th><th><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&amp;theme=tokyonight" alt="Aditya GitHub Streak"></th></tr></thead><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&amp;theme=tokyonight" alt="Top Langs"></td><td><img src="https://github-readme-stats.vercel.app/api?username=Aditya664&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=tokyonight" alt="Github Stars"></td></tr></tbody></table>
+<table><thead><tr><th><img src="https://github-readme-stats.vercel.app/api?username=plasma-bls&amp;show_icons=true&amp;theme=tokyonight" alt="Plasma's github stats"></th><th><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&amp;theme=tokyonight" alt="Aditya GitHub Streak"></th></tr></thead><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&amp;theme=tokyonight" alt="Top Langs"></td><td><img src="https://github-readme-stats.vercel.app/api?username=Aditya664&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=tokyonight" alt="Github Stars"></td></tr></tbody></table>
 <p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></p>
 <br>
 <hr>

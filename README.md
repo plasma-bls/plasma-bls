@@ -8,4 +8,4 @@ ______ |  | _____    ______ _____ _____
 ```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plasma-bls&show_icons=true&theme=dracula) 
 
-Hey! i'm a malnourished 1 year old nigga.
+Hey i'm a good guy

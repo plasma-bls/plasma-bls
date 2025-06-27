@@ -3,7 +3,7 @@
 </p>
 <div size="20px"> Hello! I'm plasma, It's nice to see you here in my profile, take a look at my repos too!
 </div>
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3237454" style='border:none;'></iframe>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 </li>
 <li>

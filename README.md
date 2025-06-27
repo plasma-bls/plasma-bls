@@ -16,8 +16,10 @@
 <p>    ⚡ Fun fact: I'm white.</p>
 </li>
 </ul>
+<h2> TryHackMe <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="32px"> </h2>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3237454" style='border:none;'></iframe>
+
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
-<img src="https://tryhackme-badges.s3.amazonaws.com/primexcelestial.png" alt="Your Image Badge" />
 <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
 <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg"> </a>
 <a href="https://github.com/plasma-bls?tab=repositories&amp;q=&amp;type=&amp;language=csharp&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg"> </a>
@@ -26,16 +28,6 @@
 <br>
 <br>
   <br>
-
-
-
-
-
-
-
-
-
-
 
 
 

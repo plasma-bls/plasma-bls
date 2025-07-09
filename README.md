@@ -6,14 +6,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 </li>
 <li>
-<p>    🌱 I’m currently learning Red Teaming!</p>
+<p>    🌱 I’m currently learning Red Team Operations % Web Exploitation </p>
 </li>
 </li>
 <li>
-<p>    💬 Ask me about: Nothing</p>
-</li>
-<li>
-<p>    ⚡ Fun fact: I'm white.</p>
+<p>    🔱 Currently a beginner/intermediate
 </li>
 </ul>
 <h2> TryHackMe <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="40px"> </h2>

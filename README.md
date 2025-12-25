@@ -24,8 +24,3 @@
 <br>
 <br>
   <br>
-
-<!-- HTML -->
-<br>
-<hr>
-<p>Credits: Aditya Deshmukh</p>

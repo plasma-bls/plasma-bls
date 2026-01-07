@@ -12,7 +12,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/archlinux.svg" height="60" alt="linux logo"  />
+  <img src="https://github.com/user-attachments/assets/1fc892d1-3e94-4033-8d85-8f02c7cb8b9b" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
   <img width="12" />

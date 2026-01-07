@@ -1,4 +1,4 @@
-<h2 align="center">Welcome to Plasma's Profile</h2>
+__<h2 align="center">Welcome to Plasma's Profile</h2>
 
 
 <div>
@@ -8,17 +8,15 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img width="12" />
-  <img width="12" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Arch-Dark.svg" height="60" />
+  <img src="https://skillicons.dev/icons?i=arch" height="60" alt="arch logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo" />
 </div>
 
 ###

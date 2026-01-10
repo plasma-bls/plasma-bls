@@ -1,6 +1,6 @@
 # 💫About Me :
-Currently learning Web Exploitation and Red Team Operations;
-Working on exploits and cybersecurity stuff;
+Currently learning Web Exploitation and Red Team Operations
+Working on exploits and cybersecurity stuff
 Want to start Bug Bounty Hunting
 
 # 💻Tech Stack

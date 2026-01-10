@@ -29,9 +29,6 @@
 ### Languages and Tools:
 ![CSS3](https://img.shields.io/badge/CSS3-%23007ACC?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23007ACC?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/Python-%23007ACC?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-%23007ACC?style=for-the-badge&logo=go&logoColor=white) 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=plasma-bls&" alt="plasma-bls" />
-</p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="left">

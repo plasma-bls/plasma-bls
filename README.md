@@ -1,7 +1,3 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=FF0000&center=false&vCenter=false&width=1000&lines=[STATUS]+Initializing+plasma-bls+environment...;[OS]+Arch+Linux+%2F%2F+Hyprland;[TARGET]+Red+Team+Ops+%26+Web+Exploitation;[SKILLS]+Low-Level+Programming+%2F%2F+Linux+Privilege+Escalation;[LOG]+Welcome+to+the+network." alt="Terminal Typing" />
-
-<br>
-
 ## <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=1&pause=1000&color=FF0000&width=350&lines=%5B+SYSTEM_INFO+%5D" alt="System Info" />
 
 &nbsp;&nbsp; ![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white) <br>

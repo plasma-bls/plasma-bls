@@ -20,4 +20,4 @@
 ## <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=1&pause=1000&color=FF0000&width=350&lines=%5B+CONTACT_ME+%5D" alt="Contact Me" />
 
 &nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/plasma-bls) <br>
-&nbsp;&nbsp; [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/IL_TUO_ID)
+&nbsp;&nbsp; [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1233355082448502866)

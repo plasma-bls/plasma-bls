@@ -7,7 +7,7 @@
 
 <br>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=1&pause=1000&color=FF0000&width=350&lines=%5B+LANGUAGES+%5D" alt="Languages" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=1&pause=1000&color=FF0000&width=350&lines=%5B+LANGUAGES+%5D" alt="Skills" />
 
 &nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br>
 &nbsp;&nbsp; ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) <br>

@@ -12,10 +12,9 @@
 &nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br>
 &nbsp;&nbsp; ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) <br>
 &nbsp;&nbsp; ![Clang](https://img.shields.io/badge/Clang-00599C?style=for-the-badge&logo=c&logoColor=white) <br>
+&nbsp;&nbsp; ![CSS3](https://img.shields.io/badge/CSS3-A6D189?style=for-the-badge&logo=css3&logoColor=white) <br>
 &nbsp;&nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br>
-&nbsp;&nbsp; ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br>
-&nbsp;&nbsp; ![Shell Script](https://img.shields.io/badge/Shell_Script-A6D189?style=for-the-badge&logo=gnu-bash&logoColor=222436)
-<br>
+&nbsp;&nbsp; ![Shell Script](https://img.shields.io/badge/Shell_Script-A6D189?style=for-the-badge&logo=gnu-bash&logoColor=222436) <br>
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=1&pause=1000&color=FF0000&width=350&lines=%5B+CONTACT_ME+%5D" alt="Contact Me" />
 

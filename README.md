@@ -9,13 +9,14 @@
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=1&pause=1000&color=FF0000&width=350&lines=%5B+LANGUAGES+%5D" alt="Skills" />
 
-&nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br>
-&nbsp;&nbsp; ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) <br>
-&nbsp;&nbsp; ![Clang](https://img.shields.io/badge/Clang-00599C?style=for-the-badge&logo=c&logoColor=white) <br>
-&nbsp;&nbsp; ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge) <br>
-&nbsp;&nbsp; ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br>
+&nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 &nbsp;&nbsp; ![Shell Script](https://img.shields.io/badge/Shell_Script-A6D189?style=for-the-badge&logo=gnu-bash&logoColor=222436) <br>
-
+&nbsp;&nbsp; ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
+&nbsp;&nbsp; ![Clang](https://img.shields.io/badge/Clang-00599C?style=for-the-badge&logo=c&logoColor=white) <br>
+&nbsp;&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+&nbsp;&nbsp; ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge) <br>
+&nbsp;&nbsp; ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+&nbsp;&nbsp; ![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) <br>
 ## <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=1&pause=1000&color=FF0000&width=350&lines=%5B+CONTACT_ME+%5D" alt="Contact Me" />
 
 &nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/plasma-bls) <br>

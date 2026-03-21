@@ -17,6 +17,7 @@
 &nbsp;&nbsp; ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge) <br>
 &nbsp;&nbsp; ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 &nbsp;&nbsp; ![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) <br>
+&nbsp;&nbsp; ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ## <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=1&pause=1000&color=FF0000&width=350&lines=%5B+CONTACT_ME+%5D" alt="Contact Me" />
 
 &nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/plasma-bls) <br>
